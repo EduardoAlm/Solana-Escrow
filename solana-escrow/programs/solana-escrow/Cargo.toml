@@ -17,6 +17,8 @@ default = []
 
 [dependencies]
 anchor-lang = "0.27.0"
+thiserror = "1.0.24"
+spl-token = {version = "3.2.0", features = ["no-entrypoint"]}
 
 [dev-dependencies]
 assert_matches = "1.4.0"
