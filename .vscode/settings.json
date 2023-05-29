@@ -1,0 +1,11 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml",
+        "./solana-escrow/programs/solana-escrow/Cargo.toml"
+    ]
+}
