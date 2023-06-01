@@ -1,11 +1,11 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml",
-        "./solana-escrow/programs/solana-escrow/Cargo.toml"
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml",
+        "./non-custodial-escrow/programs/non-custodial-escrow/Cargo.toml"
     ]
 }
